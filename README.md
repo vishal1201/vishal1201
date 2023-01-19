@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Zambare</h1>
-<h3 align="center">A polyglot Sr. SDE with experience across multiple stacks & domains.</h3>
+<a href="https://www.credly.com/badges/c9ade7b4-c155-4432-9b32-a1837a0401c0/linked_in?t=roervd"><img align="left" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="70" height="70" alt="vishal1201" /><h3 align="center">A polyglot Sr. SDE with experience across multiple stacks & domains.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal1201&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1201" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vishal1201&label=Profile%20views&color=0e75b6&style=flat" alt="vishal1201" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal1201" alt="vishal1201" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **relocating to a new country**
 
-- 💬 Ask me about **Python, Java, Cloud, Linux, Data**
+- 💬 Ask me about **AWS, Java, Python, Cloud, Linux, Data**
 
 - 📫 How to reach me **vishalzambare5@gmail.com**
 
@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1201&" alt="vishal1201" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1201&show_icons=true&locale=en&layout=compact" alt="vishal1201" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal1201&show_icons=true&locale=en&layout=compact" alt="vishal1201" /></p>
 
 [![](https://leetcard.jacoblin.cool/vishal1201?animation=false)](https://leetcard.jacoblin.cool/jacoblincool?animation=false)
