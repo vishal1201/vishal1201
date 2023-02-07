@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/vishal_zambare" target="blank"><img src="https://img.shields.io/twitter/follow/vishal_zambare?logo=twitter&style=for-the-badge" alt="vishal_zambare" /></a> </p>
 
-- 🌱 I’m currently learning **Multiple stacks**
+- 🌱 I’m currently learning **Java & Spring Boot**
 
 - 👯 I’m looking to collaborate on **Education Tech Projects**
 
-- 🤝 I’m looking for help with **relocating to a new country**
+- 🤝 I’m looking for help with ** Work in Full Time or Freelance **
 
-- 💬 Ask me about **AWS, Java, Python, Cloud, Linux, Data**
+- 💬 Ask me about **AWS, Java, Python, Git, Cloud, Linux, Data, Mentorship**
 
-- 📫 How to reach me **vishalzambare5@gmail.com**
+- 📫 How to reach me **https://linktr.ee/vishalzambare**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BlND5AbclM0ymdZOqfljAyelQa3LpD2G/view?usp=sharing](https://drive.google.com/file/d/1BlND5AbclM0ymdZOqfljAyelQa3LpD2G/view?usp=sharing)
 
