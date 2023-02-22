@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Education Tech Projects**
 
-- 🤝 I’m looking for help with **Work in Full Time or Freelance**
+- 🤝 I’m looking for help with **Nothing as of now**
 
 - 💬 Ask me about **AWS, Java, Python, Git, Cloud, Linux, Data, Mentorship**
 
